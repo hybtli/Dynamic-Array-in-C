@@ -1,4 +1,4 @@
-# Dynamic-Array-in-C
+# Simple Song Playlist
 
 In this homework you are supposed to write a C program in which you can create a simple song
 list. You must use given data structures and implement given methods properly. The user of the
